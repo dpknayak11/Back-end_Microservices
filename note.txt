@@ -1,0 +1,20 @@
+Sign-up
+Login
+Forgot Password
+Reset Password
+Change Password
+
+/api/user
+
+/loginMobile
+/mobileVerifyOTP
+/signUp
+/signIn  Auth
+/logoutUser
+/forgetpasswordEmail
+/resetpasswordEmail/:token
+/forgetpasswordMobile
+/mobileVerifyOTP 
+/chnagePassword  Auth
+
+npm i nodemon bcrypt bcryptjs body-parser dotenv express jsonwebtoken mongoose nodemailer path razorpay twilio

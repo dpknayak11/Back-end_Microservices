@@ -1,0 +1,9 @@
+{
+  "dbcredentials": {
+    "user": "demoBackend",
+    "password": "demoBackendPass",
+    "database": "admin",
+    "address": "localhost",
+    "port": 27017
+  }
+}
